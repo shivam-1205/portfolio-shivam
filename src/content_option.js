@@ -88,66 +88,52 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+       img: "https://sundayapp.com/app/themes/sunday/static/images/logo_darkmode.svg",
+        description: "Built QR-based ordering system for restaurants using React.js and Firebase Authentication, reducing staff load and improving order speed..",
+        link: "https://www.saturdayapp.in/restaurant/?restaurant_id=2",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+       
+        img: "https://images.unsplash.com/photo-1733534816908-650eaf9271f1?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "Raja Limousine is a premium car booking website designed for effortless luxury transportation reservations. Users can easily explore available limousine options.",
+        link: "https://raja-luxu-rx.vercel.app/",
     },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Complex Approach to Pest Control We are here to resolve the most complex issue.",
+        link: "https://ateasepestcontrol.vercel.app/",
     },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Developed and maintained a full-stack web platform offering 40+ cloud certification training courses for AWS, Azure, GCP, Kubernetes, and Generative AI.",
+        link: "https://www.exampro.co/",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.tcs9.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftcs9_2_120x32.b770cbd0.webp&w=256&q=75",
+        description: "TCS9 leverages technology to bridge educational gaps and empower students with knowledge-driven solutions.",
+        link: "https://www.tcs9.in/mr/login",
+    },
+    
+    {
+        img: "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210318144140/pig-Game.gif",
+        description: "The Pig Game is a two-player virtual dice game where players take turns rolling a die to accumulate points. Rolling a 1 switches turns, holding adds the current score to the total, and the first to reach 100 wins; reset restarts the game..",
+        link: "https://spiffy-smakager-02d3dd.netlify.app/",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+         description: "This is a auth api create in nodejs and express js .",
+        link: "http://github.com/shivam-1205/mhj-api",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://assets.entrepreneur.com/content/3x2/2000/20171009203636-slackbot-logo.jpeg",
+        description: "A Slack bot that automates tasks and provides quick access to information within Slack channels. It can respond to commands, fetch data from external APIs, and streamline workflows for teams.",
+        link: "https://github.com/shivam-1205/slackbot",
     },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    
+   
 ];
 
 const contactConfig = {
